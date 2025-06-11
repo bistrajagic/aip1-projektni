@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Monospace Light",
+    "workbench.colorTheme": "Default Dark+",
     "cmake.showOptionsMovedNotification": false,
     "editor.defaultFormatter": "ms-vscode.cpptools",
     "editor.formatOnPaste": true,
@@ -9,5 +9,6 @@
     "git.confirmSync": false,
     "workbench.iconTheme": "monospace-icons",
     "window.menuBarVisibility": "visible",
-    "terminal.integrated.focusAfterRun": "terminal"
+    "terminal.integrated.focusAfterRun": "terminal",
+    "C_Cpp.errorSquiggles": "disabled"
 }
